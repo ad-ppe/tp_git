@@ -13,6 +13,6 @@ Ce dépôt sert de terrain d'entraînement pour apprendre à utiliser Git, GitHu
 N'importe qui peut cloner ce dépôt et l'ouvrir dans Visual Studio Code avec les commandes suivantes :
 
 ```bash
-git clone https://github.com/ton-utilisateur/tp_git.git
+git clone https://github.com/ad-ppe/tp_git.git
 cd tp_git
 code .
